@@ -204,9 +204,9 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 - **Metrics:** Accuracy, precision, recall, F1-score for Decision Tree and KNN classifiers
 
 #### 5. Association Rule Mining
-- **Transactional Data:** `data_mining/transactional_data.csv` – Synthetic market basket data
-- **Association Rules:** `data_mining/association_rules.csv` – Top 5 rules by lift (support ≥ 0.2, confidence ≥ 0.5)
-- **Analysis Report:** `data_mining/mining_analysis_report.pdf` – Interpretation of rules and retail applications
+- **Transactional Data:** `section2_DataMining/transactional_data.csv` – Synthetic market basket data
+- **Association Rules:** `section2_DataMining//association_rules.csv` – Top 5 rules by lift (support ≥ 0.2, confidence ≥ 0.5)
+- **Analysis Report:** `section2_DataMining//mining_analysis_report.pdf` – Interpretation of rules and retail applications
 
 
 
@@ -236,12 +236,12 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 #### **Section 1: Data Warehousing**
 
 **Task 1: Star Schema Design**
-- Review schema diagram: `data_warehousing/schema_diagram.png`
+- Review schema diagram: `section_1_datawarehousing/schema_diagram.png`
 - Inspect SQL script: `data_warehousing/create_tables.sql`
 
 **Task 2: ETL Pipeline**
 ```bash
-cd data_warehousing
+cd section_1_datawarehousing
 python etl_retail.py
 ```
 **Optional:** Pass a random seed for reproducible synthetic data generation:
@@ -265,7 +265,7 @@ python etl_retail.py --seed 42
 
 **Task 1: Preprocessing**
 ```bash
-cd ../data_mining
+cd ../sction2_DataMining
 python preprocessing_iris.py
 ```
 **Optional:** Generate synthetic data with a specific seed:
@@ -438,7 +438,7 @@ You are free to use, modify, and distribute this code with attribution. See the 
 
 **Author:** Sammi Oyabi  
 **Email:** smaoyabi@gmail.com
-**GitHub:** [@smaoyabi](https://github.com/smaoyabi) 
+**GitHub:** [@smaoyabi](https://github.com/smoyabi) 
 
 For questions, feedback, or collaboration inquiries, please open an issue on GitHub or contact via email.
 
