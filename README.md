@@ -136,7 +136,7 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 - **Path:** `section_1_datawarehousing\Task1_DWDesign\schema_diagram.png`
 - **Description:** Visual representation of the star schema with one fact table (SalesFact) and dimension tables (CustomerDim, ProductDim, TimeDim).
 
-![Star Schema Diagram](section_1_datawarehousing\Task1_DWDesign\schema_diagram.png)
+![Star Schema Diagram](section_1_datawarehousing/Task1_DWDesign/schema_diagram.png)
 
 #### 2. SQL CREATE TABLE Statements
 - **Path:** `section_1_datawarehousing\Task3_OLAP\olap_queries.sql`
@@ -158,7 +158,7 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 - **Path:** `data_warehousing/sales_by_country.png`
 - **Description:** Bar chart showing total sales by country (generated from OLAP query).
 
-![Sales by Country](section_1_datawarehousing\Task3_OLAP\visualizations\sales_by_country.png)
+![Sales by Country](section_1_datawarehousing/Task3_OLAP/visualizations/sales_by_country.png)
 
 #### 7. Analysis Report
 - **Path:** `section_1_datawarehousing\Task3_OLAP\reports\olap_analysis_report.pdf`
