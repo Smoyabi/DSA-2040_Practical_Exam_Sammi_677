@@ -175,20 +175,20 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 #### 2. Data Exploration Visualizations
 - **Pairplot:** `section2_DataMining\Task1_Preprocessing\visualizations\pairplot.png` – Pairwise relationships between features
 
-![Pairplot](section2_DataMining\Task1_Preprocessing\visualizations\pairplot.png)
+![Pairplot](section2_DataMining/Task1_Preprocessing/visualizations/pairplot.png)
 
 - **Correlation Heatmap:** `section2_DataMining\Task1_Preprocessing\visualizations\correlation_heatmap.png` – Feature correlation matrix
 
-![Correlation Heatmap](section2_DataMining\Task1_Preprocessing\visualizations\correlation_heatmap.png)
+![Correlation Heatmap](section2_DataMining/Task1_Preprocessing/visualizations/correlation_heatmap.png)
 
 - **Boxplot:** `section2_DataMining\Task1_Preprocessing\visualizations\boxplots.png` – Outlier detection visualization
 
-![Boxplot Outliers](section2_DataMining\Task1_Preprocessing\visualizations\boxplots.png)
+![Boxplot Outliers](section2_DataMining/Task1_Preprocessing/visualizations/boxplots.png)
 
 #### 3. Clustering Results
 - **Elbow Curve:** `section2_DataMining\Task2_Clustering\visualizations\elbow_curve.png` – Optimal k determination for K-Means
 
-![Elbow Curve](section2_DataMining\Task2_Clustering\visualizations\elbow_curve.png)
+![Elbow Curve](section2_DataMining/Task2_Clustering/visualizations/elbow_curve.png)
 
 - **Cluster Visualization:** `section2_DataMining/Task2_Clustering/visualizations/cluster_scatter.png` – Scatter plot of clusters
 
