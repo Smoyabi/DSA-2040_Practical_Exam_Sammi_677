@@ -133,7 +133,7 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 ### Data Warehousing Outputs
 
 #### 1. Star Schema Diagram
-- **Path:** `section_1_datawarehousing\Task1_DWDesign\schema_diagram.drawio.png`
+- **Path:** `section_1_datawarehousing\Task1_DWDesign\schema_diagram.png`
 - **Description:** Visual representation of the star schema with one fact table (SalesFact) and dimension tables (CustomerDim, ProductDim, TimeDim).
 
 ![Star Schema Diagram](section_1_datawarehousing\Task1_DWDesign\schema_diagram.png)
