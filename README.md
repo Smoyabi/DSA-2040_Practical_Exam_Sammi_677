@@ -136,7 +136,7 @@ DSA_2040_Practical_Exam_Sammi_O. 677/
 - **Path:** `section_1_datawarehousing\Task1_DWDesign\schema_diagram.drawio.png`
 - **Description:** Visual representation of the star schema with one fact table (SalesFact) and dimension tables (CustomerDim, ProductDim, TimeDim).
 
-![Star Schema Diagram](section_1_datawarehousing\Task1_DWDesign\schema_diagram.drawio.png)
+![Star Schema Diagram](section_1_datawarehousing\Task1_DWDesign\schema_diagram.png)
 
 #### 2. SQL CREATE TABLE Statements
 - **Path:** `section_1_datawarehousing\Task3_OLAP\olap_queries.sql`
